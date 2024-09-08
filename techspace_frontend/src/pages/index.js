@@ -11,7 +11,7 @@ const LoginPage = () => {
 
   return (
     <VStack h="100vh" justify="center" align="center" spacing={8}>
-      <Heading size="xl">Welcome to ZK Job Board</Heading>
+      <Heading size="xl">Welcome to Gladiators gaming arena</Heading>
       <Button colorScheme="teal" size="lg" onClick={handleLogin}>
         Log in
       </Button>
